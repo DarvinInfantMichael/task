@@ -16,7 +16,7 @@ export default Navbar
 const Logo=()=>{
     return(
         <div className="w-15 h-15 flex justify-center">
-            <img className="rounded-2xl" src="../../public/img3.avif"/>
+            <img className="rounded-2xl" src="./img3.avif"/>
         </div>
     )
 }
